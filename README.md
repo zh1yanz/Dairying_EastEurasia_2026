@@ -15,11 +15,11 @@ The emergence of pastoralism profoundly transformed ancient societies across Eas
 The mass spectrometry data and the MaxQuant and MSFragger protein output files are deposited in the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository with the dataset identifier PXD065252.
 
 ## Repository files
-### * metadata: 
+### - metadata: 
 Input data for analysis derived directly from MaxQuant LFQ results.
-### * Script: 
+### - Script: 
 R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
-### * Database and raw outputs: 
+### - Database and raw outputs: 
 Reference oral microbiota proteome database (HOMD retrieved Sep 2022 and reduced database) and raw outputs from MaxQuant and MSFragger.
 
 ### Libraries
