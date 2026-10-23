@@ -1,7 +1,6 @@
-# Dairying_EastEurasia_2026
+# Dairying Shaped Dietary Boundaries in Ancient East Eurasia
 This repository documents the data and scripts for metaproteomic analysis in the paper by Zhang et al.
 
-## Dairying Shaped Dietary Boundaries in Ancient East Eurasia
 ### Original publication
 
 ### Authors
