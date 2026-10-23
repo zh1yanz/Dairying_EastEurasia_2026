@@ -22,7 +22,7 @@ R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
 ### - Database and raw outputs: 
 Reference oral microbiota proteome database (HOMD retrieved Sep 2022 and reduced database) and raw outputs from MaxQuant and MSFragger.
 
-### Libraries
+### Version of libraries
 #### R Packages
 
 | Package | Version |
