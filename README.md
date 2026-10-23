@@ -2,7 +2,10 @@
 This repository documents the data and scripts for metaproteomic analysis in the paper by Zhang et al.
 
 ## Dairying Shaped Dietary Boundaries in Ancient East Eurasia
-Authors: Zhiyan Zhang, Yueguang Yang, Dexin Cong, Minghui Wang, Lipeng Lu, Qiurong Ruan, Jie Zhang, Alipujiang Niyazi, Jianjun Yu, Wenying Li, Xingjun Hu, Yongqiang Wang, Guoke Chen, Yishi Yang,  Shuicheng Li, Jianing He, Ruilin Mao, Qiang Ma, Xiaoli Qin, Qian Han, Xuesong Pei, Jing Shao, Zhouyong Sun, Ruitong Yao, Yan Pan, YiHsien Lin, Yao Zhang, Christina Warinner*, Chao Ning*, Xiaohong Wu*
+### Original publication
+
+### Authors
+Zhiyan Zhang, Yueguang Yang, Dexin Cong, Minghui Wang, Lipeng Lu, Qiurong Ruan, Jie Zhang, Alipujiang Niyazi, Jianjun Yu, Wenying Li, Xingjun Hu, Yongqiang Wang, Guoke Chen, Yishi Yang,  Shuicheng Li, Jianing He, Ruilin Mao, Qiang Ma, Xiaoli Qin, Qian Han, Xuesong Pei, Jing Shao, Zhouyong Sun, Ruitong Yao, Yan Pan, YiHsien Lin, Yao Zhang, Christina Warinner*, Chao Ning*, Xiaohong Wu*
 *Corresponding authors: wuxh@pku.edu.cn (X.H.W.); cning@pku.edu.cn (C.N.); warinner@fas.harvard.edu (C.W.).
 
 ### Abstract
@@ -11,10 +14,13 @@ The emergence of pastoralism profoundly transformed ancient societies across Eas
 ### Raw LC-MS/MS data repository
 The mass spectrometry data and the MaxQuant and MSFragger protein output files are deposited in the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository with the dataset identifier PXD065252.
 
-## Repository file structures
-* metadata: input data for analysis derived directly from MaxQuant LFQ results.
-* Script: R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
-* Database and raw outputs: reference oral microbiota proteome database (HOMD retrieved Sep 2022 and reduced database) and raw outputs from MaxQuant and MSFragger.
+## Repository files
+### * metadata: 
+Input data for analysis derived directly from MaxQuant LFQ results.
+### * Script: 
+R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
+### * Database and raw outputs: 
+Reference oral microbiota proteome database (HOMD retrieved Sep 2022 and reduced database) and raw outputs from MaxQuant and MSFragger.
 
 ### Libraries
 #### R Packages
@@ -47,4 +53,7 @@ The mass spectrometry data and the MaxQuant and MSFragger protein output files a
 | `seaborn` | 0.11.2 |
 | `statsmodels` | 0.13.5 |
 
+## Licence 
+
+## Contact
 For questions about the code, contact zhiyan_zhang@stu.pku.edu.cn.
