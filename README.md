@@ -1,5 +1,5 @@
 # Dairying_EastEurasia_2026
-This repository documents the data and scripts for metaproteomic analysis in the paper Dairying Shaped Dietary Boundaries in East Eurasia. 
+This repository documents the data and scripts for metaproteomic analysis in the paper Zhang et al.
 
 # Dairying Shaped Dietary Boundaries in Ancient East Eurasia
 Zhiyan Zhang, Yueguang Yang, Dexin Cong, Minghui Wang, Lipeng Lu, Qiurong Ruan, Jie Zhang, Alipujiang Niyazi, Jianjun Yu, Wenying Li, Xingjun Hu, Yongqiang Wang, Guoke Chen, Yishi Yang,  Shuicheng Li, Jianing He, Ruilin Mao, Qiang Ma, Xiaoli Qin, Qian Han, Xuesong Pei, Jing Shao, Zhouyong Sun, Ruitong Yao, Yan Pan, YiHsien Lin, Yao Zhang, Christina Warinner*, Chao Ning*, Xiaohong Wu*
