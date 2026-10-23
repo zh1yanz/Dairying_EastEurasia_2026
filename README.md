@@ -6,6 +6,7 @@ This repository documents the data and scripts for metaproteomic analysis in the
 
 ### Authors
 Zhiyan Zhang, Yueguang Yang, Dexin Cong, Minghui Wang, Lipeng Lu, Qiurong Ruan, Jie Zhang, Alipujiang Niyazi, Jianjun Yu, Wenying Li, Xingjun Hu, Yongqiang Wang, Guoke Chen, Yishi Yang,  Shuicheng Li, Jianing He, Ruilin Mao, Qiang Ma, Xiaoli Qin, Qian Han, Xuesong Pei, Jing Shao, Zhouyong Sun, Ruitong Yao, Yan Pan, YiHsien Lin, Yao Zhang, Christina Warinner*, Chao Ning*, Xiaohong Wu*
+
 *Corresponding authors: wuxh@pku.edu.cn (X.H.W.); cning@pku.edu.cn (C.N.); warinner@fas.harvard.edu (C.W.).
 
 ### Abstract
