@@ -21,7 +21,7 @@ Input data for analysis derived directly from MaxQuant LFQ results.
 ### - Script: 
 R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
 ### - Database and raw outputs: 
-Reference oral microbiota proteome database (HOMD retrieved Sep 2022 and reduced database) and raw outputs from MaxQuant and MSFragger.
+Reference oral microbiota proteome database: HOMD (https://www.homd.org/, retrieved Sep 2022) and reduced database; raw outputs from MaxQuant and MSFragger.
 
 ### Version of libraries
 #### R Packages
