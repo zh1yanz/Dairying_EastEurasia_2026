@@ -1,5 +1,5 @@
 # Dairying Shaped Dietary Boundaries in Ancient East Eurasia
-This repository documents the data and scripts for metaproteomic analysis in the paper by Zhang et al.
+This repository contains the data and scripts for the metaproteomic analysis in Zhang et al.
 
 ### Original publication
 
@@ -8,8 +8,6 @@ Zhiyan Zhang, Yueguang Yang, Dexin Cong, Minghui Wang, Lipeng Lu, Qiurong Ruan, 
 
 *Corresponding authors: wuxh@pku.edu.cn (X.H.W.); cning@pku.edu.cn (C.N.); warinner@fas.harvard.edu (C.W.).
 
-### Abstract
-The emergence of pastoralism profoundly transformed ancient societies across East Eurasia1-3. Yet it remains unclear to what extent early lactase non-persistent (LNP) East Asian communities adopted dairying, and how milk consumption intersected with biological and cultural factors. Here, we analyzed dietary and microbial proteins preserved in the dental calculus of 123 individuals (ca. 2500 BCE to 200 CE) spanning 24 archaeological sites along the proto-Silk Road, a pivotal conduit for early pastoral exchange4. Our results reveal an association between dairying and pastoral economies, but not with agriculture, despite this being typical in West Eurasia5. Ruminant milk was routinely consumed in the Inner Asian Mountain Corridor and Hexi Corridor, but was limited or absent among contemporaneous agrarian communities on the Loess Plateau, who maintained a persistent "non-milking attitude"6 since the first introduction of pastoralism. Comparative metaproteomics demonstrates that milk consumers displayed elevated levels of oral microbial proteins involved in lactose and galactose metabolism, suggesting a functional adaptation of the microbiome to dairy intake. We propose that while milk use among LNP pastoralists may have been facilitated by microbial plasticity in the gastrointestinal tract7-10, persistent milk avoidance among agrarian communities is more plausibly explained by cultural factors than biological constraints. This divergence established enduring dietary boundaries between herding and farming communities, revealing how cultural choice and microbial flexibility have jointly shaped dietary adaptations in East Eurasia. 
 
 ### Raw LC-MS/MS data repository
 The mass spectrometry data and the MaxQuant and MSFragger protein output files are deposited in the ProteomeXchange Consortium (https://proteomecentral.proteomexchange.org) via the iProX partner repository with the dataset identifier PXD065252.
@@ -19,8 +17,14 @@ The mass spectrometry data and the MaxQuant and MSFragger protein output files a
 Input data for analysis derived directly from MaxQuant LFQ results.
 ### - Script: 
 R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
-### - Database and raw outputs: 
-Reference oral microbiota proteome database: HOMD (https://www.homd.org/, retrieved Sep 2022) and reduced database; raw outputs from MaxQuant and MSFragger.
+### - Raw outputs: 
+Raw outputs from MaxQuant and MSFragger.
+
+### Software and operating systems
+- Visual Studio Code 1.138.0
+- Jupyter extension 2025.9.1
+- Python 3.7.0 with with ipykernel 6.15.1
+- R version 4.4.2 with IRkernel 1.3.2
 
 ### Version of libraries
 #### R Packages
@@ -54,6 +58,8 @@ Reference oral microbiota proteome database: HOMD (https://www.homd.org/, retrie
 | `statsmodels` | 0.13.5 |
 
 ## Licence 
+Code in this repository is released under the MIT License.
+Data generated in this study are released under CC BY 4.0. 
 
 ## Contact
 For questions about the code, contact zhiyan_zhang@stu.pku.edu.cn.
