@@ -1,5 +1,5 @@
 # Dairying Shaped Dietary Boundaries in Ancient East Eurasia
-This repository contains the data and scripts for the metaproteomic analysis in Zhang et al.
+This repository contains the data and scripts for the metaproteomic analyses and visualization in Zhang et al.
 
 ### Original publication
 
