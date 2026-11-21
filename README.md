@@ -15,10 +15,9 @@ The mass spectrometry data and the MaxQuant and MSFragger protein output files a
 ## Repository files
 ### - metadata: 
 Input data for analysis derived directly from MaxQuant LFQ results.
-### - Script: 
-R and Python scripts coded under R version 4.4.2 and Python 3.7.0.
-### - Raw outputs: 
-Raw outputs from MaxQuant and MSFragger.
+### - script: 
+supplementary_code_Py.ipynb: Python notebook coded under Python 3.7.0.
+supplementary_code_R.ipynb: R notebook coded under R version 4.4.2.
 
 ### Software and operating systems
 - Visual Studio Code 1.138.0
